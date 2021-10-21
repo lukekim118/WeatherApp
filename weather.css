@@ -1,0 +1,66 @@
+#topContainer{
+    width: 800px;
+    height: 350px;
+    text-align: center;
+    font-size: 20px;
+}
+#mainContainer{
+    width: 810px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 19%;
+
+}
+.sunny{
+    background-image: url(./img/sunny.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: auto;
+}
+.rainy{
+    background-image: url(./img/rainy.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: auto;
+}
+.cloudy{
+    background-image: url(./img/cloudy.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: auto;
+}
+#bottom{
+    width: 810px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 5px;
+}
+#bottomL{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+#bottomLM{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+}
+#bottomRM{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+}
+#bottomR{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+}
